@@ -1,0 +1,95 @@
+echo "POKEMON"
+sleep 0.3
+echo "Bobbyore Edition"
+sleep 0.5
+echo "By Weijing Wang"
+sleep 0.4
+echo "Loading"
+sleep 1
+clear
+echo "|"
+sleep 0.2
+clear
+echo "=|"
+sleep 0.2
+clear
+echo "==|"
+sleep 0.2
+clear
+echo "===|"
+sleep 0.2
+clear
+echo "====|"
+sleep 0.2
+clear
+echo "=====|"
+sleep 0.2
+clear
+echo "====|"
+sleep 0.2
+clear
+echo "===|"
+sleep 0.2
+clear
+echo "==|"
+sleep 0.2
+clear
+echo "=|"
+sleep 0.2
+clear
+echo "|"
+echo "|"
+sleep 0.2
+clear
+echo "=|"
+sleep 0.2
+clear
+echo "==|"
+sleep 0.2
+clear
+echo "===|"
+sleep 0.2
+clear
+echo "====|"
+sleep 0.2
+clear
+echo "=====|"
+sleep 0.2
+clear
+echo "===|"
+sleep 0.2
+clear
+echo "==|"
+sleep 0.2
+clear
+echo "=|"
+sleep 0.2
+clear
+echo "|"
+sleep 0.2
+clear
+echo "|"
+sleep 0.2
+clear
+echo "==|"
+sleep 0.2
+clear
+echo "===|"
+sleep 0.2
+clear
+echo "====|"
+sleep 0.2
+clear
+echo "====|"
+sleep 0.2
+clear
+echo "===|"
+sleep 0.2
+clear
+echo "==|"
+sleep 0.2
+clear
+echo "=|"
+sleep 0.5
+clear
+python pokemon.py

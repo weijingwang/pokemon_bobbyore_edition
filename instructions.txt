@@ -1,0 +1,12 @@
+1. When you first open this zip file, open terminal and set the shell language 
+"bash-shell".
+2. type in the terminal, "source game.txt"
+3. then wait.
+4. Enjoy!
+5. be free to modify the code game.txt and pokemon.py by typing in, 
+nano "game.txt" or "nano pokemon.py"
+6. When you are done modifying, type "^O" then type "^x"
+7. After that, run your program again!
+8. (same procedure for mac, windows, or linux as long as it has bash and
+terminal) 
+
