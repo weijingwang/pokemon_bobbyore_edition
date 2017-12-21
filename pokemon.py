@@ -1,5 +1,4 @@
 name = raw_input("What is your name?")
-gender = raw_input("Are you a boy or girl")
 	print "Welcome %s!" % (name)
 
 a =raw_input("Pokemon are things")
