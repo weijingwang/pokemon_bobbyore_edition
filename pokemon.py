@@ -1,10 +1,5 @@
 name = raw_input("What is your name?")
-gender = raw_input("Are you a boy or girl")
-
-if name=="Weiheng":
-	print "Ah so you are that stupid moron and you are a idiot"
-else:
-	print "Ah so you are %s and you are a %s" % (name, gender)
+	print "Welcome %s!" % (name)
 
 a =raw_input("Pokemon are things")
 print "Welcome to the world of POKEMON!!!"
